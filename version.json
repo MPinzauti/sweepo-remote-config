@@ -1,5 +1,5 @@
 {
-  "min_build_testflight": 2,
+  "min_build_testflight": 5,
   "min_version_appstore": "1.0.0",
   "update_url_testflight": "https://testflight.apple.com/join/eGzB78GQ",
   "appstore_app_id": "1234567890",
